@@ -37,6 +37,8 @@ Berikut analisis SWOT untuk platform "Teras Arjuna":
    - **Kurangnya Influencer Niche Tertentu**: Misalnya, kurangnya influencer di bidang tertentu yang populer, sehingga membuat UMKM yang membutuhkan niche tersebut enggan menggunakan platform.
    - **Masalah Keamanan**: Jika platform mengalami isu keamanan, UMKM dan influencer bisa kehilangan kepercayaan.
 
+nb: niche adalah topik atau bidang spesifik yang menjadi fokus utama konten atau target pasar tertentu
+
 4. **Kelemahan yang Dirasakan Target Pasar**:
    - **Keterbatasan Pilihan Influencer**: Pengguna mungkin menganggap jumlah influencer terlalu sedikit atau kurang beragam, yang bisa menghambat pilihan bagi UMKM.
    - **Biaya Layanan**: UMKM mungkin merasakan biaya layanan yang cukup besar, terutama jika platform mengenakan komisi tinggi.
